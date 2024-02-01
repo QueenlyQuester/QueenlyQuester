@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python coding/ coding discord tools
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on an discord nuker
-- 📫 How to reach me on Discord just dm me "queenly_quester"
+- 📫 How to reach me, on Discord just dm me "queenly_quester"
 - 😄 Pronouns: He/Him
 
 <!---
